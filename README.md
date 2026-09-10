@@ -300,20 +300,6 @@ n8n-student-progress-email/
 
 Export the n8n workflow as `workflow.json` if you want to version-control the workflow configuration.
 
-## 📸 Workflow Screenshot
-
-Add the completed workflow screenshot here:
-
-```text
-screenshots/workflow.png
-```
-
-Then reference it in the README:
-
-```markdown
-![n8n Workflow](screenshots/workflow.png)
-```
-
 ---
 
 ## 🎓 Project Summary

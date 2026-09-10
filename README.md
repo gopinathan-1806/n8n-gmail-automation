@@ -340,6 +340,10 @@ This provides a foundation for more advanced workflows involving AI/LLMs, condit
 
 **Build → Understand → Test → Learn → Improve → Integrate**
 
+## Use the JSON below to create the workflow and import it into n8n.
+
+https://github.com/gopinathan-1806/n8n-gmail-automation/blob/main/Gmail%20Automation.json
+
 ## Flow chart representing the execution
 
 <img width="1536" height="1024" alt="email automation flow" src="https://github.com/user-attachments/assets/1d728d0a-8c60-4b1f-bc64-ad7dbf5ed481" />
